@@ -1,0 +1,41 @@
+.show-password {
+    position: relative;
+}
+
+.lp-pass-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.lp-form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.lp-header {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.lp-outer {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.lp-back-arrow {
+    position: absolute;
+    top: 5%;
+    left: 2%;
+
+}
+
+.lp-back-arrow:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.fp-logo {
+    width: 30%;
+}
+
+.fp-outer {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+.fp-inner1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fp-header,
+.fp-des {
+    text-align: center;
+}
+
+.fp-card {
+    padding: 20px;
+}
+
+.fp-inner2 {
+    display: flex;
+    justify-content: space-around;
+}
